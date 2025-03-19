@@ -1,4 +1,4 @@
-# **RAG-Based Space Chatbot** 🛸🌌
+# **SPACETALKS - RAG Based Space Chatbot** 🛸🌌
 
 A retrieval-augmented chatbot integrating **vector search**, **NLP**, and **generative models** to deliver human-like answers about space, astronauts, exoplanets, and more. Perfect for cosmic exploration fans! 🪐
 
